@@ -1,0 +1,7 @@
+config:
+  largetitle:
+    text: Change Me
+    color: GOLD
+  smalltitle:
+    text: Change Me Too
+    color: GOLD
