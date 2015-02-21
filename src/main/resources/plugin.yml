@@ -1,0 +1,9 @@
+name: EasyTitle
+version: 0.1
+author: TheFatDemon
+description: Easy Join Titles
+main: me.thefatdemon.java.plugins.easytitle.EasyTitlePlugin
+commands:
+  easytitle:
+    description: Reload title messages
+    permission: easytitle.admin
