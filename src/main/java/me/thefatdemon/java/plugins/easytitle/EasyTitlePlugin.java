@@ -15,6 +15,8 @@ public class EasyTitlePlugin extends JavaPlugin {
 
         FileConfiguration config = getConfig();
 
+        saveConfig();
+
         if (config.getString("config.largetitle.text").equals("")){
             config.set("config.largetitle.text", "Change Me");
         }
